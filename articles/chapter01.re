@@ -182,7 +182,7 @@ Googleの検索結果に出てきた記事を読むときに、上から下ま�
 ただし、必ず4番は実施してください。
 
 1. 本屋さんに行って本を探してみる
-2. @<code>{Qiita}（@<herf>{https://qiita.com}）や@<code>{はてなブログ}（@<herf>{http://hatenablog.com}）などで該当記事を探す
+2. @<code>{Qiita}（@<href>{https://qiita.com}）や@<code>{はてなブログ}（@<href>{http://hatenablog.com}）などで該当記事を探す
 3. 英語の記事を検索して読んでみる
 4. そのプロダクトの公式ドキュメントを読む
 
