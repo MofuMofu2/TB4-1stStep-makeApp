@@ -14,4 +14,4 @@ build:
     #   code: npm run epub
     - script:
       name: output artifacts
-      code: cp articles/MofuMofu2.* $WERCKER_REPORT_ARTIFACTS_DIR/
+      code: cp articles/1stStep-makeApp.* $WERCKER_REPORT_ARTIFACTS_DIR/
