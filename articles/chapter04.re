@@ -141,8 +141,7 @@ Rubyをやるときはこの本のリストを参考にしてみようと思い�
 
 == 技術書のジレンマとPEAKS + 書評ブログを書くTips
 
-@<href>{https://speakerdeck.com/shu223/ji-shu-shu-falsezirenmatopeaks-plus-shu-ping-buroguwoshu-kutips-number-ios11book}
-
+リンクをRe:VIEWで貼ろうとしたら本に収まりきらないのでやめました。みんな検索してみて！
 とはいえ、じゃあどうやって技術書を読めばいいんだ？というひよこエンジニアの方もいるかもしれません。
 このスライドの後半部分には@<code>{書評記事の書き方}の話が出てきます。それがすごく参考になるので、ここで紹介します。
 
