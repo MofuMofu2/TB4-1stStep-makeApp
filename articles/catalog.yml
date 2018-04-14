@@ -1,5 +1,5 @@
 PREDEF:
-
+  - introduction.re
 CHAPS:
   # 理解度と調べ方のはなし
   - chapter01.re
@@ -7,6 +7,8 @@ CHAPS:
   - chapter02.re
   # 本編その1-ひよこエンジニアに対するエモいポエムは本人のためになるのか？ Qiitaのエモいポエム編
   - chapter03.re
+  # 本編その2-これをよめ！とか言う本は本当に本人のためになるのか
+  - chapter04.re
 
 APPENDIX:
 
