@@ -163,3 +163,25 @@ LTとはLigntning Talkの略称です。5分から15分で自分の知見を他�
  * Rubykaigi（@<href>{http://rubykaigi.org}）
  * VimConf（@<href>{http://vimconf.vim-jp.org}）
  * DroidKaigi（@<href>{https://droidkaigi.jp}）
+
+===== 企業が主催するカンファレンス
+
+AWS・Googleなど、企業が主催するカンファレンスでは、その企業に紐づくプロダクトの話がメインとなります。
+Developers Summitなど、企業が主催しているけれど話の内容は多岐に渡るカンファレンスも存在します。
+
+どちらも（よくわからないけれど）スライドをカメラで撮りまくる人が多いです。音が出て迷惑ですし、大抵のスライドは
+後から公開されます。写真を撮るのはやめましょう。残念な人扱いされます。
+
+企業が主催するカンファレンスで、有名なものをいくつか紹介します。
+
+ * AWS Summit（@<href>{https://www.awssummit.tokyo}）
+ * Developers Summit（@<href>{https://event.shoeisha.jp/devsumi}）
+ * Cookpad TechConf（@<href>{https://techconf.cookpad.com/2018/}）
+
+===== その他のカンファレンス
+
+これ以外にも色々カンファレンスは存在します。Twitterでエンジニアの人をフォローしておくと、
+「このカンファレンスいくぞ〜」みたいなツイートが流れてくることがあります。
+
+または、このように（@<href>{https://qiita.com/akatsuki174/items/3f0abf493e1f8d020307#cookpad-techconf}）
+おすすめカンファレンスがまとまっているブログもあります。お好みのものを探してみてはいかがでしょうか。
